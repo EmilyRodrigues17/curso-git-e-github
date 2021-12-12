@@ -9,3 +9,7 @@ git checkout -b [nome da nova branch]
 
 ## Comando para verificar as branchs disponíveis
 git branch
+
+## Comando para unir conteudos de branchs localmente
+Primeiro é necessário trocar para a branch que você quer atualizar e dar o seguinte comando:
+git merge [nome da branch]
